@@ -11,7 +11,7 @@ export default function App() {
   return (
     <main className='container'>
       <header className='container__header'>
-        <img src='/logo.svg' alt='' />
+        <img src='/logo.svg' alt='Logo of the enterprise' />
       </header>
       <section className='container__hero'>
         <picture className='container__hero__image'>
